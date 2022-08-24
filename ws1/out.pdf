@@ -1,0 +1,19 @@
+--2022-08-22 18:25:27--  https://tinyurl.com/yy94jltt
+Resolving tinyurl.com (tinyurl.com)... 104.20.138.65, 172.67.1.225, 104.20.139.65, ...
+Connecting to tinyurl.com (tinyurl.com)|104.20.138.65|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sjsu.edu/cs/docs/pdfs/Prerequisite%20Chart-June%202020.pdf [following]
+--2022-08-22 18:25:28--  https://www.sjsu.edu/cs/docs/pdfs/Prerequisite%20Chart-June%202020.pdf
+Resolving www.sjsu.edu (www.sjsu.edu)... 130.65.218.11
+Connecting to www.sjsu.edu (www.sjsu.edu)|130.65.218.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201169 (196K) [application/pdf]
+Saving to: ‘yy94jltt’
+
+     0K .......... .......... .......... .......... .......... 25%  347K 0s
+    50K .......... .......... .......... .......... .......... 50% 1.24M 0s
+   100K .......... .......... .......... .......... .......... 76% 1.00M 0s
+   150K .......... .......... .......... .......... ......    100% 1.68M=0.3s
+
+2022-08-22 18:25:29 (758 KB/s) - ‘yy94jltt’ saved [201169/201169]
+
